@@ -1,7 +1,4 @@
-Clone the repo with
-
-git clone https://github.com/SkyCascade/SkyLearn.git
-
+Clone the repo 
 Create and activate a python virtual environment
 
 pip install -r requirements.txt
